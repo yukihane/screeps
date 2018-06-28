@@ -13,6 +13,7 @@
     "grunt": "^1.0.3"
   },
   "dependencies": {
+    "@types/screeps": "^2.4.0",
     "grunt-screeps": "^1.4.0"
   }
 }
